@@ -1,0 +1,201 @@
+Tourism_ID,Destination,Country,Continent,Tourism_Type,Best_Season,Average_Duration_Days,Estimated_Budget_USD,Rating,Annual_Visitors,Accommodation_Type,Transportation
+T001,Los Angeles,USA,North America,City,Winter,3,504,4.6,133393,Hotel,Cruise
+T002,Barcelona,Spain,Europe,City,Winter,11,3756,3.5,54123,Apartment,Cruise
+T003,Paris,France,Europe,Wildlife,Winter,10,1928,4.6,372696,Homestay,Cruise
+T004,Singapore,Singapore,Asia,Wildlife,Spring,14,353,4.6,88707,Hostel,Train
+T005,Tokyo,Japan,Asia,Cultural,Spring,14,3057,3.7,204191,Hostel,Cruise
+T006,Singapore,Singapore,Asia,Cultural,Autumn,14,655,4.6,286137,Hotel,Cruise
+T007,Bali,Indonesia,Asia,Cultural,Summer,12,3262,4.4,374398,Resort,Bus
+T008,Barcelona,Spain,Europe,Heritage,Winter,5,1127,4.1,242717,Hostel,Bus
+T009,Tokyo,Japan,Asia,Cultural,All Season,12,2487,4.6,363375,Resort,Cruise
+T010,Cairo,Egypt,Africa,City,Spring,5,1638,4.2,146530,Hotel,Train
+T011,Rio de Janeiro,Brazil,South America,City,All Season,2,2884,4.1,39701,Hostel,Train
+T012,Los Angeles,USA,North America,Luxury,Winter,9,3541,4.8,342039,Hostel,Train
+T013,Bangkok,Thailand,Asia,Wildlife,All Season,13,4898,4.3,396650,Homestay,Bus
+T014,Bangkok,Thailand,Asia,Beach,Summer,4,4474,4.2,401247,Resort,Train
+T015,Marrakech,Morocco,Africa,Wildlife,All Season,12,3758,4.4,206728,Homestay,Cruise
+T016,Singapore,Singapore,Asia,Nature,Spring,10,394,4.5,65058,Hotel,Bus
+T017,Jaipur,India,Asia,Nature,All Season,4,4016,3.5,383584,Resort,Cruise
+T018,London,United Kingdom,Europe,City,Winter,12,2744,4.8,271161,Hostel,Train
+T019,Sydney,Australia,Oceania,Heritage,Autumn,14,4644,4.9,319019,Hotel,Flight
+T020,Goa,India,Asia,Cultural,Summer,14,2819,3.9,131286,Homestay,Flight
+T021,Cape Town,South Africa,Africa,Adventure,Spring,10,1330,3.7,254184,Apartment,Cruise
+T022,Jaipur,India,Asia,City,Spring,5,4717,4.6,366689,Homestay,Bus
+T023,New Delhi,India,Asia,Cultural,Spring,10,3998,3.7,122806,Hotel,Cruise
+T024,Sydney,Australia,Oceania,Beach,Winter,5,2104,3.5,376112,Hotel,Flight
+T025,Buenos Aires,Argentina,South America,Luxury,Winter,7,880,4.3,151002,Apartment,Train
+T026,Cairo,Egypt,Africa,Wildlife,Winter,11,4172,3.9,252974,Hotel,Flight
+T027,Orlando,USA,North America,Beach,Summer,8,3202,4.1,249855,Hotel,Car
+T028,Cairo,Egypt,Africa,Luxury,Winter,7,1195,3.9,104724,Homestay,Train
+T029,Singapore,Singapore,Asia,Luxury,All Season,9,2346,4.8,44523,Hotel,Flight
+T030,Los Angeles,USA,North America,City,Winter,10,420,5.0,490683,Homestay,Car
+T031,Agra,India,Asia,Wildlife,Summer,5,3585,4.9,91317,Homestay,Bus
+T032,Marrakech,Morocco,Africa,Luxury,Winter,14,4027,3.9,370214,Resort,Bus
+T033,Tokyo,Japan,Asia,Beach,Summer,2,4741,3.6,169419,Apartment,Car
+T034,Kochi,India,Asia,Cultural,Winter,10,1589,3.6,271248,Hotel,Cruise
+T035,Barcelona,Spain,Europe,City,All Season,12,2226,4.1,498667,Apartment,Flight
+T036,New York,USA,North America,Heritage,Spring,3,3734,4.5,301341,Resort,Bus
+T037,Bangkok,Thailand,Asia,Nature,Autumn,6,3542,3.7,343428,Hostel,Flight
+T038,Paris,France,Europe,City,All Season,9,4912,5.0,43409,Hostel,Train
+T039,Goa,India,Asia,Luxury,All Season,3,2301,4.1,87704,Hostel,Cruise
+T040,Marrakech,Morocco,Africa,Nature,Summer,12,4633,3.5,433397,Resort,Bus
+T041,London,United Kingdom,Europe,City,Spring,3,4832,3.7,152721,Resort,Bus
+T042,Kochi,India,Asia,Beach,Summer,9,2357,4.9,448602,Homestay,Bus
+T043,Rome,Italy,Europe,Nature,Winter,2,3032,4.7,339030,Homestay,Cruise
+T044,Toronto,Canada,North America,Adventure,All Season,8,4894,3.5,44449,Hotel,Bus
+T045,Melbourne,Australia,Oceania,Nature,Spring,10,1513,4.1,26930,Hotel,Bus
+T046,Tokyo,Japan,Asia,Wildlife,All Season,12,2344,4.5,190429,Resort,Train
+T047,Buenos Aires,Argentina,South America,Adventure,Spring,4,1750,4.8,17995,Homestay,Train
+T048,Singapore,Singapore,Asia,Luxury,Winter,4,1185,4.1,25302,Resort,Car
+T049,Goa,India,Asia,City,Autumn,6,2164,3.8,351047,Hostel,Bus
+T050,Buenos Aires,Argentina,South America,Wildlife,All Season,3,2586,4.0,272075,Hostel,Flight
+T051,London,United Kingdom,Europe,Beach,Summer,6,1762,4.4,144180,Apartment,Car
+T052,Goa,India,Asia,Cultural,Autumn,13,2869,4.2,273132,Apartment,Train
+T053,Singapore,Singapore,Asia,City,Spring,2,3872,3.5,490267,Homestay,Flight
+T054,Orlando,USA,North America,Nature,All Season,7,2871,4.5,70339,Hostel,Car
+T055,Maldives,Maldives,Asia,Wildlife,Autumn,8,2722,4.3,105579,Resort,Cruise
+T056,Melbourne,Australia,Oceania,Nature,Spring,6,3626,4.3,5212,Resort,Car
+T057,Marrakech,Morocco,Africa,City,All Season,11,2939,4.2,236819,Homestay,Train
+T058,Orlando,USA,North America,Heritage,Summer,3,2624,4.3,336843,Resort,Bus
+T059,Bangkok,Thailand,Asia,City,Autumn,14,1931,3.7,29229,Apartment,Flight
+T060,New Delhi,India,Asia,Luxury,Autumn,8,1892,4.6,206315,Resort,Train
+T061,Los Angeles,USA,North America,Cultural,Autumn,13,345,4.8,456118,Resort,Train
+T062,Marrakech,Morocco,Africa,City,Summer,13,4543,4.2,297241,Homestay,Train
+T063,Marrakech,Morocco,Africa,Heritage,Autumn,9,4651,5.0,317188,Apartment,Cruise
+T064,Jaipur,India,Asia,Luxury,Autumn,10,3952,4.8,394889,Hostel,Train
+T065,Rio de Janeiro,Brazil,South America,Luxury,Winter,12,2571,4.6,278311,Hostel,Car
+T066,Barcelona,Spain,Europe,Heritage,All Season,13,2640,3.9,181080,Hotel,Train
+T067,Amsterdam,Netherlands,Europe,City,Summer,5,3437,4.5,375367,Homestay,Car
+T068,Maldives,Maldives,Asia,Wildlife,Autumn,10,4116,4.1,113440,Apartment,Flight
+T069,Buenos Aires,Argentina,South America,Heritage,Spring,14,3416,4.2,499268,Homestay,Car
+T070,Sydney,Australia,Oceania,City,Autumn,13,4773,4.7,475711,Resort,Bus
+T071,Jaipur,India,Asia,Wildlife,Winter,9,537,4.1,355682,Homestay,Train
+T072,New York,USA,North America,Beach,Summer,10,520,4.9,315322,Homestay,Train
+T073,Buenos Aires,Argentina,South America,Heritage,Winter,9,1788,3.6,203759,Homestay,Bus
+T074,Maldives,Maldives,Asia,Wildlife,Spring,14,3405,3.9,441167,Hotel,Car
+T075,Paris,France,Europe,City,Summer,13,4718,3.6,188480,Hotel,Flight
+T076,Bangkok,Thailand,Asia,Adventure,Autumn,5,466,4.4,130066,Hotel,Cruise
+T077,Tokyo,Japan,Asia,Cultural,Winter,9,2399,4.7,92969,Hostel,Flight
+T078,Melbourne,Australia,Oceania,Wildlife,Autumn,2,2855,4.4,481067,Resort,Flight
+T079,Melbourne,Australia,Oceania,Nature,All Season,13,2289,3.7,410002,Hotel,Cruise
+T080,Marrakech,Morocco,Africa,Heritage,Summer,2,3144,4.3,351827,Apartment,Bus
+T081,Paris,France,Europe,Luxury,Winter,8,4315,3.7,194890,Homestay,Train
+T082,Cairo,Egypt,Africa,Luxury,Autumn,10,2512,4.4,487144,Homestay,Cruise
+T083,Singapore,Singapore,Asia,Nature,Autumn,7,2311,4.7,50436,Resort,Car
+T084,Melbourne,Australia,Oceania,Heritage,Winter,11,3404,4.0,264158,Homestay,Train
+T085,Goa,India,Asia,Nature,All Season,14,2416,4.0,466541,Hotel,Cruise
+T086,Tokyo,Japan,Asia,City,Autumn,3,2277,4.6,261155,Homestay,Car
+T087,Marrakech,Morocco,Africa,City,Spring,2,1062,3.9,217022,Apartment,Bus
+T088,Agra,India,Asia,Heritage,Spring,10,4649,4.0,396084,Homestay,Bus
+T089,Bali,Indonesia,Asia,Heritage,Summer,6,2188,3.7,105969,Apartment,Train
+T090,Tokyo,Japan,Asia,Nature,Summer,5,4266,3.9,314113,Resort,Bus
+T091,Bangkok,Thailand,Asia,Adventure,Spring,7,1769,4.0,376205,Hotel,Flight
+T092,Sydney,Australia,Oceania,Luxury,Summer,6,1334,4.5,399679,Hotel,Cruise
+T093,Bali,Indonesia,Asia,Beach,Spring,9,4221,4.2,101659,Homestay,Flight
+T094,Rio de Janeiro,Brazil,South America,Beach,Winter,3,3582,4.2,307525,Resort,Cruise
+T095,Bali,Indonesia,Asia,Wildlife,All Season,3,2333,3.7,405788,Apartment,Cruise
+T096,Bangkok,Thailand,Asia,Luxury,Spring,14,4580,4.1,481317,Apartment,Car
+T097,Bali,Indonesia,Asia,Cultural,Winter,11,793,4.4,393019,Resort,Bus
+T098,Orlando,USA,North America,Cultural,Winter,3,1586,3.9,294402,Hotel,Car
+T099,New Delhi,India,Asia,Nature,Spring,13,4149,3.9,126360,Homestay,Flight
+T100,Orlando,USA,North America,City,Autumn,5,2467,4.7,332710,Hotel,Cruise
+T101,Bangkok,Thailand,Asia,Adventure,Summer,12,1520,4.9,438392,Hotel,Train
+T102,Marrakech,Morocco,Africa,Cultural,Autumn,6,4962,4.9,235242,Hostel,Car
+T103,Singapore,Singapore,Asia,Beach,Autumn,10,4723,4.2,47174,Hostel,Cruise
+T104,Singapore,Singapore,Asia,Beach,Spring,2,1048,3.8,358526,Apartment,Flight
+T105,Cape Town,South Africa,Africa,Luxury,Spring,14,1735,4.2,346578,Resort,Cruise
+T106,Jaipur,India,Asia,Heritage,Autumn,12,4328,5.0,251420,Hostel,Bus
+T107,Orlando,USA,North America,Luxury,Spring,3,1617,4.0,368684,Homestay,Cruise
+T108,Rome,Italy,Europe,Cultural,Autumn,9,1021,4.0,174488,Apartment,Flight
+T109,Orlando,USA,North America,Heritage,All Season,10,4084,4.1,103347,Homestay,Car
+T110,Cape Town,South Africa,Africa,Nature,Autumn,2,1967,3.9,73688,Homestay,Flight
+T111,Paris,France,Europe,Beach,All Season,12,2260,4.6,167922,Homestay,Flight
+T112,Bangkok,Thailand,Asia,Adventure,Autumn,3,4080,4.9,344586,Hostel,Cruise
+T113,Toronto,Canada,North America,City,Autumn,6,3703,4.8,252579,Apartment,Train
+T114,Chennai,India,Asia,Cultural,Spring,5,4463,4.6,76569,Homestay,Bus
+T115,Marrakech,Morocco,Africa,Nature,All Season,10,2488,4.7,153289,Apartment,Car
+T116,Buenos Aires,Argentina,South America,Heritage,All Season,4,3958,4.3,185944,Apartment,Car
+T117,New Delhi,India,Asia,Wildlife,Winter,7,1845,5.0,130202,Homestay,Flight
+T118,Maldives,Maldives,Asia,Wildlife,Autumn,13,4174,4.6,430411,Resort,Car
+T119,Rome,Italy,Europe,Cultural,Autumn,4,4414,4.9,179060,Hotel,Cruise
+T120,New Delhi,India,Asia,Adventure,Summer,2,1480,4.1,348293,Homestay,Bus
+T121,Maldives,Maldives,Asia,Heritage,All Season,11,3556,4.5,451570,Homestay,Bus
+T122,Los Angeles,USA,North America,Cultural,Winter,13,4297,4.8,23821,Hostel,Train
+T123,Cairo,Egypt,Africa,Cultural,Autumn,3,3855,5.0,403652,Resort,Bus
+T124,Lima,Peru,South America,Nature,Spring,2,676,4.0,34422,Hostel,Car
+T125,Amsterdam,Netherlands,Europe,Adventure,Winter,5,4651,4.1,362459,Resort,Flight
+T126,New York,USA,North America,Adventure,Winter,8,2272,4.2,310742,Homestay,Bus
+T127,New Delhi,India,Asia,Nature,All Season,6,376,4.8,248926,Resort,Flight
+T128,New Delhi,India,Asia,Nature,Autumn,7,2750,4.5,227460,Hostel,Train
+T129,Chennai,India,Asia,Heritage,All Season,9,1173,3.9,304852,Hostel,Bus
+T130,Paris,France,Europe,Beach,All Season,12,3542,3.9,301709,Homestay,Bus
+T131,Cape Town,South Africa,Africa,City,Winter,14,2185,4.4,189717,Apartment,Bus
+T132,Orlando,USA,North America,Beach,Spring,14,1420,4.4,478643,Homestay,Flight
+T133,Melbourne,Australia,Oceania,Heritage,Autumn,7,1376,3.6,159722,Resort,Train
+T134,Amsterdam,Netherlands,Europe,Nature,Winter,14,4718,4.8,196814,Hostel,Car
+T135,Marrakech,Morocco,Africa,Cultural,Winter,6,3074,4.7,250540,Resort,Car
+T136,Buenos Aires,Argentina,South America,Wildlife,Summer,14,4865,4.0,419545,Hostel,Cruise
+T137,London,United Kingdom,Europe,Nature,All Season,9,3319,4.5,357500,Homestay,Bus
+T138,London,United Kingdom,Europe,Heritage,All Season,12,2215,4.2,329820,Resort,Flight
+T139,Los Angeles,USA,North America,Adventure,Summer,9,2775,4.5,66171,Hotel,Bus
+T140,Agra,India,Asia,Adventure,Autumn,3,1096,3.9,286829,Homestay,Bus
+T141,Orlando,USA,North America,Adventure,Autumn,13,4725,4.1,394162,Hotel,Car
+T142,New York,USA,North America,City,Autumn,8,2591,3.5,199264,Homestay,Train
+T143,Buenos Aires,Argentina,South America,Heritage,Summer,7,1113,5.0,197589,Homestay,Bus
+T144,Tokyo,Japan,Asia,Beach,Summer,3,4025,3.6,116204,Hostel,Train
+T145,Amsterdam,Netherlands,Europe,City,All Season,14,4925,3.8,440063,Resort,Train
+T146,Maldives,Maldives,Asia,Beach,Spring,14,1508,4.7,317466,Resort,Train
+T147,Sydney,Australia,Oceania,Beach,Winter,6,1729,3.7,459268,Hotel,Bus
+T148,Marrakech,Morocco,Africa,Adventure,Spring,14,2249,4.4,13273,Hotel,Train
+T149,Cairo,Egypt,Africa,Luxury,Autumn,8,4609,3.7,38322,Hostel,Cruise
+T150,Melbourne,Australia,Oceania,Beach,All Season,3,4002,4.3,327493,Hostel,Car
+T151,Los Angeles,USA,North America,Wildlife,Autumn,2,798,5.0,449228,Hotel,Car
+T152,Toronto,Canada,North America,Adventure,Summer,9,902,4.8,173879,Resort,Bus
+T153,New York,USA,North America,Nature,Autumn,12,4792,4.6,204703,Apartment,Cruise
+T154,Jaipur,India,Asia,City,Autumn,3,1237,4.8,346267,Homestay,Train
+T155,Jaipur,India,Asia,Cultural,Spring,7,4015,4.1,387527,Homestay,Bus
+T156,Orlando,USA,North America,Luxury,Summer,6,3366,4.9,365092,Hotel,Flight
+T157,Barcelona,Spain,Europe,Adventure,All Season,8,1091,4.6,200374,Hotel,Cruise
+T158,Sydney,Australia,Oceania,Heritage,Autumn,10,3000,4.5,220382,Hotel,Bus
+T159,New York,USA,North America,City,Winter,6,3180,3.7,271030,Homestay,Train
+T160,Buenos Aires,Argentina,South America,Cultural,Spring,3,3168,4.8,197707,Apartment,Train
+T161,Marrakech,Morocco,Africa,Beach,All Season,8,4895,5.0,434091,Hostel,Flight
+T162,Dubai,United Arab Emirates,Asia,Beach,Winter,6,2831,4.9,189037,Resort,Cruise
+T163,Orlando,USA,North America,Beach,Summer,8,870,3.7,336964,Apartment,Train
+T164,Chennai,India,Asia,Nature,Spring,8,4016,4.0,199014,Apartment,Cruise
+T165,Barcelona,Spain,Europe,Beach,Summer,2,1574,3.7,328925,Hostel,Car
+T166,Orlando,USA,North America,Nature,Winter,8,4278,4.4,222151,Apartment,Flight
+T167,Goa,India,Asia,Luxury,All Season,8,1208,3.9,360722,Hostel,Flight
+T168,Bangkok,Thailand,Asia,City,Winter,8,748,3.5,163030,Hostel,Bus
+T169,Maldives,Maldives,Asia,Adventure,Winter,3,363,4.2,230787,Homestay,Cruise
+T170,Toronto,Canada,North America,Heritage,Summer,5,4398,4.3,355249,Homestay,Flight
+T171,Jaipur,India,Asia,Heritage,All Season,2,4066,4.9,456993,Homestay,Cruise
+T172,Chennai,India,Asia,Beach,Spring,13,3721,3.9,217353,Resort,Cruise
+T173,New Delhi,India,Asia,Cultural,Winter,13,3264,3.6,447753,Homestay,Cruise
+T174,Chennai,India,Asia,Heritage,Winter,10,944,4.1,167673,Hostel,Train
+T175,Barcelona,Spain,Europe,Heritage,Spring,10,1234,4.3,106661,Resort,Train
+T176,London,United Kingdom,Europe,Adventure,Summer,4,2396,3.8,320830,Resort,Car
+T177,New Delhi,India,Asia,Heritage,Spring,14,4918,4.6,240355,Resort,Car
+T178,Barcelona,Spain,Europe,Nature,All Season,9,3922,4.4,422506,Hotel,Bus
+T179,Kochi,India,Asia,Beach,Spring,3,2842,4.2,24717,Hostel,Flight
+T180,Los Angeles,USA,North America,Beach,Autumn,3,4453,4.1,309259,Apartment,Train
+T181,Maldives,Maldives,Asia,Luxury,Summer,11,4196,4.3,37439,Hostel,Flight
+T182,Kochi,India,Asia,Luxury,Autumn,12,1713,3.6,375997,Apartment,Cruise
+T183,New York,USA,North America,Wildlife,Autumn,4,3281,4.1,153317,Hostel,Cruise
+T184,Rome,Italy,Europe,Wildlife,Spring,14,3041,3.6,54548,Hostel,Cruise
+T185,Buenos Aires,Argentina,South America,Adventure,Spring,4,3030,3.6,352923,Hostel,Car
+T186,Amsterdam,Netherlands,Europe,Heritage,Winter,11,994,4.0,202488,Apartment,Flight
+T187,Los Angeles,USA,North America,Heritage,Spring,12,3768,4.3,14558,Resort,Train
+T188,Maldives,Maldives,Asia,Adventure,Summer,14,4283,3.8,77123,Hostel,Flight
+T189,Kochi,India,Asia,Beach,Spring,14,4721,4.8,468303,Apartment,Train
+T190,New York,USA,North America,Adventure,Autumn,8,1563,3.7,440864,Hotel,Car
+T191,Goa,India,Asia,Nature,Autumn,12,2245,5.0,325127,Resort,Cruise
+T192,Bangkok,Thailand,Asia,Heritage,All Season,6,4142,4.9,106720,Homestay,Car
+T193,Cape Town,South Africa,Africa,Adventure,Winter,6,3428,4.3,224498,Apartment,Train
+T194,Buenos Aires,Argentina,South America,Heritage,All Season,6,727,4.5,463289,Hotel,Cruise
+T195,Buenos Aires,Argentina,South America,Nature,Autumn,3,2635,3.6,89049,Apartment,Train
+T196,Rio de Janeiro,Brazil,South America,Luxury,Spring,8,1051,4.9,121411,Hotel,Car
+T197,Rome,Italy,Europe,Cultural,Spring,8,4412,4.1,207462,Resort,Flight
+T198,Maldives,Maldives,Asia,Beach,Spring,3,3046,4.7,77141,Homestay,Train
+T199,Cape Town,South Africa,Africa,Cultural,Summer,13,4142,4.2,7753,Hostel,Train
+T200,Rio de Janeiro,Brazil,South America,Wildlife,Summer,4,4795,4.9,324228,Hostel,Train
